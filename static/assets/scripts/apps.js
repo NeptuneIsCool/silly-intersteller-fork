@@ -277,6 +277,26 @@ document.addEventListener('DOMContentLoaded', () => {
       categories: ['all', 'game', 'cloud'],
       blank: 'true',
     },
+    {
+      name: 'Selenite',
+      link: 'https://selenite.cc/',
+      image: 'https://avatars.githubusercontent.com/u/147996775?s=280&v=4',
+      categories: ['all', 'game', 'cloud'],
+      blank: 'true',
+    },
+    {
+      name: 'FalconLink v3(Partner)',
+      link: 'https://falconlink.net/',
+      image: 'https://avatars.githubusercontent.com/u/147996775?s=280&v=4',
+      categories: ['all', 'game', 'cloud'],
+      blank: 'true',
+    },
+    {
+      name: 'Windows',
+      link: 'https://xp.quenq.com/',
+      image:'https://seeklogo.com/images/W/windows-xp-icon-logo-E8F84DD6F3-seeklogo.com.png',
+      categories: ['all', '2P'],
+    },
   ]
 
   appsList.sort((a, b) => a.name.localeCompare(b.name))

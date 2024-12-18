@@ -141,6 +141,12 @@ document.addEventListener('DOMContentLoaded', () => {
       categories: ['all'],
     },
     {
+      name: 'Selenite',
+      link: 'https://selenite.cc/',
+      image: 'https://avatars.githubusercontent.com/u/147996775?s=280&v=4',
+      categories: ['all'],
+    },
+    {
       name: 'Territorial.io',
       link: 'https://territorial.io',
       image: '/assets/media/icons/territorialio.webp',
@@ -1610,6 +1616,30 @@ document.addEventListener('DOMContentLoaded', () => {
       image: '/assets/media/icons/mc.webp',
       categories: ['all', '2P', 'emu'],
       blank: 'true',
+    },
+    {
+      name: 'Geometry Dash',
+      link: 'https://geometry-lite.io/',
+      image: 'https://m.media-amazon.com/images/I/61+EFvroCVL.png',
+      categories: ['all', '2P'],
+    },
+    {
+      name: 'Sprunki',
+      link: 'https://www.crazygames.com/game/sprunki-itn',
+      image: 'https://manciniworldwide.com/wp-content/uploads/2019/02/invisible-png.png',
+      categories: ['all', '2P'],
+    },
+    {
+      name: 'Slice Master',
+      link: 'https://www.crazygames.com/game/slice-master',
+      image: 'https://images.crazygames.com/slice-master_16x9/20240731033229/slice-master_16x9-cover?auto=format,compress&q=75&cs=strip',
+      categories: ['all', '2P'],
+    },
+    {
+      name: 'Windows',
+      link: 'https://xp.quenq.com/',
+      image:'https://seeklogo.com/images/W/windows-xp-icon-logo-E8F84DD6F3-seeklogo.com.png',
+      categories: ['all', '2P'],
     },
   ]
 
