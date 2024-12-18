@@ -1585,9 +1585,9 @@ document.addEventListener('DOMContentLoaded', () => {
       categories: ['all'],
     },
     {
-      name: 'Venge',
-      link: 'https://venge.io',
-      image: '/assets/media/icons/venge.webp',
+      name: 'Windows',
+      link: 'https://xp.quenq.com',
+      image: 'https://seeklogo.com/images/W/windows-xp-icon-logo-E8F84DD6F3-seeklogo.com.png',
       categories: ['all'],
     },
     {
