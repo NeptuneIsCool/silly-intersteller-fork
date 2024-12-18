@@ -1636,10 +1636,28 @@ document.addEventListener('DOMContentLoaded', () => {
       categories: ['all', '2P'],
     },
     {
-      name: 'Windows',
-      link: 'https://xp.quenq.com/',
-      image:'https://seeklogo.com/images/W/windows-xp-icon-logo-E8F84DD6F3-seeklogo.com.png',
+      name: 'Time Shooter 3',
+      link: 'https://www.crazygames.com/game/time-shooter-3-swat',
+      image:'https://img.tapimg.net/market/images/549ba8c0ee4e701ec52bff6c321e0106.png/appicon?t=1',
       categories: ['all', '2P'],
+    },
+    {
+      name: 'Madalin Stunt Cars 2',
+      link: 'https://www.crazygames.com/game/madalin-stunt-cars-2',
+      image:'https://images.crazygames.com/games/madalin-stunt-cars-2/cover_16x9-1695113654654.png?auto=format%2Ccompress&q=45&cs=strip&ch=DPR&w=1200&h=630&fit=crop',
+      categories: ['all', '2P'],
+    },
+    {
+      name: 'Space Waves',
+      link: 'https://www.crazygames.com/game/space-waves',
+      image:'https://images.crazygames.com/space-waves_16x9/20241203031650/space-waves_16x9-cover?auto=format%2Ccompress&q=75&cs=strip&ch=DPR&w=444.5',
+      categories: ['all', '2P'],
+    },
+    {
+      name: 'GeoGuessr (WorldGuessr)',
+      link: 'https://www.crazygames.com/game/worldguessr',
+      image:'https://images.crazygames.com/worldguessr_16x9/20241018082520/worldguessr_16x9-cover?auto=format%2Ccompress&q=75&cs=strip&ch=DPR&w=444.5',
+      categories: ['all'],
     },
   ]
 
