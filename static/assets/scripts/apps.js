@@ -297,6 +297,12 @@ document.addEventListener('DOMContentLoaded', () => {
       image:'https://seeklogo.com/images/W/windows-xp-icon-logo-E8F84DD6F3-seeklogo.com.png',
       categories: ['all', '2P'],
     },
+    {
+      name: 'AI GPT free',
+      link: 'https://www.hotbot.com/free-chatgpt',
+      image:'https://hbcdn01.hotbot.com/avatar/813.jpg',
+      categories: ['all', '2P'],
+    },
   ]
 
   appsList.sort((a, b) => a.name.localeCompare(b.name))
