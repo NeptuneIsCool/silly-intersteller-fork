@@ -259,6 +259,12 @@ document.addEventListener('DOMContentLoaded', () => {
       categories: ['all', 'emu', 'android'],
     },
     {
+      name: '9anime',
+      link: 'https://9animetv.to/',
+      image: 'https://cdn2.steamgriddb.com/icon/6ef77bd3e3cfb00cd02bba48e6e9a9e3.png',
+      categories: ['all', 'emu', 'android'],
+    },
+    {
       name: 'Now.GG (NowGG.me) [Working]',
       link: 'https://nowgg.me',
       image: '/assets/media/icons/shuttle.webp',

@@ -57,6 +57,12 @@ document.addEventListener('DOMContentLoaded', () => {
       categories: ['all', '2P'],
     },
     {
+      name: 'Block Blast',
+      link: 'https://blockblastonline.com/',
+      image: 'https://m.media-amazon.com/images/I/71mDg3UjuqL.png',
+      categories: ['all', '2P'],
+    },
+    {
       name: 'CSGO Parkour',
       link: 'https://yandex.com/games/app/203069?flags={%22adv_sticky_banner_disabled%22:true}',
       image: '/assets/media/icons/csgoparkour.webp',
