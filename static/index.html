@@ -40,7 +40,7 @@
       </div>
     </div>
 
-    <!-- framws per sec counter -->
+    <!-- frames per sec counter -->
     <script>
       (function() {
           const fpsCounter = document.createElement('div');
@@ -68,7 +68,7 @@
                   lastTime = currentTime;
               }
 
-              fpsCounter.textContent = ${fps} fps;
+              fpsCounter.textContent = fps + ' fps';
 
               requestAnimationFrame(updateFPS);
           }
