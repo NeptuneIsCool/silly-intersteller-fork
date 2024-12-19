@@ -1659,6 +1659,30 @@ document.addEventListener('DOMContentLoaded', () => {
       image:'https://images.crazygames.com/worldguessr_16x9/20241018082520/worldguessr_16x9-cover?auto=format%2Ccompress&q=75&cs=strip&ch=DPR&w=444.5',
       categories: ['all'],
     },
+    {
+      name: 'Brawl Stars',
+      link: 'https://yandex.com/games/app/387326#app-id=387326&catalog-session-uid=catalog-0908ff70-3dbc-5c9d-98a4-4a11fed3f8dd-1734581045124-3eed&rtx-reqid=3854647711322036296&pos=%7B%22listType%22%3A%22suggested%22%2C%22tabCategory%22%3A%22common%22%7D&redir-data=%7B%22block%22%3A%22suggested%22%2C%22block_index%22%3A1%2C%22card%22%3A%22adaptive_recommended_new%22%2C%22col%22%3A0%2C%22first_screen%22%3A1%2C%22page%22%3A%22main%22%2C%22rn%22%3A103048817%2C%22row%22%3A1%2C%22rtx_reqid%22%3A%223854647711322036296%22%2C%22same_block_index%22%3A0%2C%22wrapper%22%3A%22grid-list%22%2C%22request_id%22%3A%221734581044847524-11376052333542316567-csncr442dubnx2od-BAL%22%2C%22http_ref%22%3A%22https%253A%252F%252Fyandex.com%252Fgames%252F%22%7D',
+      image:'https://static.vecteezy.com/system/resources/previews/027/127/568/non_2x/brawl-stars-logo-brawl-stars-icon-transparent-free-png.png',
+      categories: ['all'],
+    },
+    {
+      name: 'Brawl Stars',
+      link: 'https://yandex.com/games/app/387326#app-id=387326&catalog-session-uid=catalog-0908ff70-3dbc-5c9d-98a4-4a11fed3f8dd-1734581045124-3eed&rtx-reqid=3854647711322036296&pos=%7B%22listType%22%3A%22suggested%22%2C%22tabCategory%22%3A%22common%22%7D&redir-data=%7B%22block%22%3A%22suggested%22%2C%22block_index%22%3A1%2C%22card%22%3A%22adaptive_recommended_new%22%2C%22col%22%3A0%2C%22first_screen%22%3A1%2C%22page%22%3A%22main%22%2C%22rn%22%3A103048817%2C%22row%22%3A1%2C%22rtx_reqid%22%3A%223854647711322036296%22%2C%22same_block_index%22%3A0%2C%22wrapper%22%3A%22grid-list%22%2C%22request_id%22%3A%221734581044847524-11376052333542316567-csncr442dubnx2od-BAL%22%2C%22http_ref%22%3A%22https%253A%252F%252Fyandex.com%252Fgames%252F%22%7D',
+      image:'https://static.vecteezy.com/system/resources/previews/027/127/568/non_2x/brawl-stars-logo-brawl-stars-icon-transparent-free-png.png',
+      categories: ['all'],
+    },
+    {
+      name: 'Block Blast, but wooden',
+      link: 'https://yandex.com/games/app/182665#app-id=182665&catalog-session-uid=catalog-0908ff70-3dbc-5c9d-98a4-4a11fed3f8dd-1734580933935-1809&rtx-reqid=1193839499494938051&pos=%7B%22listType%22%3A%22categorized%22%2C%22tabCategory%22%3A%22common%22%7D&redir-data=%7B%22block%22%3A%22cat_puzzles%22%2C%22block_index%22%3A16%2C%22card%22%3A%22l%22%2C%22col%22%3A0%2C%22first_screen%22%3A1%2C%22page%22%3A%22main%22%2C%22rn%22%3A324635430%2C%22row%22%3A0%2C%22rtx_reqid%22%3A%221193839499494938051%22%2C%22same_block_index%22%3A4%2C%22wrapper%22%3A%22categorized-games%22%2C%22request_id%22%3A%221734581205513567-13426601580678654960-ajsn2meeqt2qfon2-BAL%22%2C%22http_ref%22%3A%22https%253A%252F%252Fyandex.com%252Fgames%252F%22%7D',
+      image:'https://play-lh.googleusercontent.com/1dj7IBkiIWLeSzxF_2blBbByxE0fIvlTv1LAtpEKlSodEVJG16PckN_zWr5yWf1Bag=w240-h480-rw',
+      categories: ['all'],
+    },
+    {
+      name: 'Minecraft off brand',
+      link: 'https://yandex.com/games/app/167027#app-id=167027&catalog-session-uid=catalog-0908ff70-3dbc-5c9d-98a4-4a11fed3f8dd-1734580933935-1809&rtx-reqid=1193839499494938051&pos=%7B%22listType%22%3A%22suggested%22%2C%22tabCategory%22%3A%22common%22%7D&redir-data=%7B%22block%22%3A%22suggested%22%2C%22block_index%22%3A20%2C%22card%22%3A%22adaptive_recommended_new%22%2C%22col%22%3A4%2C%22first_screen%22%3A1%2C%22page%22%3A%22main%22%2C%22rn%22%3A170316186%2C%22row%22%3A0%2C%22rtx_reqid%22%3A%221193839499494938051%22%2C%22same_block_index%22%3A8%2C%22wrapper%22%3A%22grid-list%22%2C%22request_id%22%3A%221734581246960345-10628458760190917133-gq3pz34xiyls3ovx-BAL%22%2C%22http_ref%22%3A%22https%253A%252F%252Fyandex.com%252Fgames%252F%22%7D',
+      image:'https://preview.redd.it/variations-to-the-minecraft-logo-v0-0dzqovtefeqd1.png?width=640&crop=smart&auto=webp&s=99663c774da1d7cd172ccc120fe76d35cbdb8d17',
+      categories: ['all'],
+    },
   ]
 
   appsList.sort((a, b) => a.name.localeCompare(b.name))

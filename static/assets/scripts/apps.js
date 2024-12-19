@@ -303,6 +303,18 @@ document.addEventListener('DOMContentLoaded', () => {
       image:'https://hbcdn01.hotbot.com/avatar/813.jpg',
       categories: ['all', '2P'],
     },
+    {
+      name: 'Lagged',
+      link: 'https://lagged.com/',
+      image:'https://imgs2.dab3games.com/site-image.png',
+      categories: ['all', '2P'],
+    },
+    {
+      name: 'Yandex',
+      link: 'https://yandex.com/games/',
+      image:'https://play-lh.googleusercontent.com/ObpFDH8dsgIJe8upNwvMChArIe0PT96CN93wejH-Hqkhp4a4DK2OJ4NpVPVY685sMus',
+      categories: ['all', '2P'],
+    },
   ]
 
   appsList.sort((a, b) => a.name.localeCompare(b.name))
