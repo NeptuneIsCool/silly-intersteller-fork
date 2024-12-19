@@ -21,11 +21,11 @@
         <a class="icon" href="/./"><img alt="nav" id="INImg" src="/assets/media/favicon/main.png" /></a>
       </div>
       <div class="fixed-nav-bar-right">
-        <a class="navbar-link" href="/./-"><i class="fa-solid fa-gamepad navbar-icon"></i>Games</a>
+        <a class="navbar-link" href="/./-"><i class="fa-solid fa-gamepad navbar-icon">games</span>Games</a>
         <a class="navbar-link" href="/./~"><span class="material-symbols-outlined weird-icon">apps</span>Apps</a>
         <a class="navbar-link" href="/./0"><i class="fa-solid fa-table navbar-icon"></i>Tabs</a>
         <a class="navbar-link" href="/./!"><i class="fa-solid fa-gear navbar-icon settings-icon"></i>Settings</a>
-        <a class="navbar-link" href="/./!"><i class="fa-solid fa-gear navbar-icon settings-icon"></i>test</a>
+        <a class="navbar-link" href="/./$"><i class="fa-solid fa-gear navbar-icon settings-icon"></i>test</a>
       </div>
     </div>
     <div id="particles-js">
@@ -40,19 +40,18 @@
       </div>
     </div>
 
-    <!-- FPS Counter Script -->
+    <!-- framws per sec counter -->
     <script>
       (function() {
-          // Create FPS counter element
           const fpsCounter = document.createElement('div');
           fpsCounter.style.position = 'fixed';
           fpsCounter.style.top = '0';
           fpsCounter.style.left = '0';
-          fpsCounter.style.fontSize = '12px';
+          fpsCounter.style.fontSize = '14px';
           fpsCounter.style.color = 'white';
           fpsCounter.style.zIndex = '1000';
           fpsCounter.style.padding = '2px';
-          fpsCounter.style.pointerEvents = 'none'; // So it doesn't interfere with other elements
+          fpsCounter.style.pointerEvents = 'none'; 
           document.body.appendChild(fpsCounter);
 
           let lastTime = performance.now();
@@ -63,26 +62,21 @@
               const currentTime = performance.now();
               frameCount++;
 
-              // Update FPS every second
               if (currentTime - lastTime >= 1000) {
                   fps = frameCount;
                   frameCount = 0;
                   lastTime = currentTime;
               }
 
-              // Update the text content
               fpsCounter.textContent = `${fps} fps`;
 
-              // Call the update function again on the next frame
               requestAnimationFrame(updateFPS);
           }
 
-          // Start the FPS calculation
           updateFPS();
       })();
     </script>
 
-    <!-- Your other scripts -->
     <script src="assets/scripts/index.js?v=3"></script>
     <script src="./m/bundle.js"></script>
     <script src="./m/config.js"></script>
