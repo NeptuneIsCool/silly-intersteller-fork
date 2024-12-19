@@ -6,7 +6,7 @@ try {
   inFrame = true
 }
 
-if (!inFrame && !navigator.userAgent.includes('Firefox')) {
+if (!inFrame && !navigator.userAgent.includes('Firefox Browser')) {
   const popup = open('about:blank', '_blank')
   if (!popup || popup.closed) alert('Please allow popups and redirects :).')
   else {
